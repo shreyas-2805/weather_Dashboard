@@ -1,0 +1,6 @@
+mcp==2.2.0
+# 5.50 keeps the existing Gen_ai Transformers stack compatible; the dashboard
+# uses the same Gradio event APIs and runs cleanly in this environment.
+gradio==5.50.0
+huggingface-hub==0.36.2
+SQLAlchemy==2.0.52

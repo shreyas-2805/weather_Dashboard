@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.gradio/
+.playwright-cli/
+screenshots/*.tmp
+notes.db
+notes.db-*
+*.sqlite
+*.sqlite3
+notes.json.backup
